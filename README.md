@@ -1,18 +1,16 @@
-# PROYECTO1
+# INFORME PROYECTO1
 
-# Informe
-
-#  INTEGRANTE:
+# INTEGRANTE:
 
 -BRYHANA RODRÍGUEZ
 
 # OBJETIVOS
 
-# # Objetivo General
+## Objetivo General
 
 Crear un circuito de led nocturno automático e identificar los elementos empleados para su creación y cual el la función que cumple.
  
-# # Objetivos Especificos
+## Objetivos Especificos
 
 * Comprender y analizar el funcionamiento de los elementos que intervienen en el circuito sensor de luz.
 
@@ -29,7 +27,7 @@ EXPLICACIÓN DEL PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/116812951/204416789-59a1f76b-6151-4fda-a0aa-e9e44e9792ef.png)
 
-#  VIDEO
+# VIDEO
 
 https://youtu.be/NdqSHyFL6z8
 
@@ -37,7 +35,7 @@ https://youtu.be/NdqSHyFL6z8
 
 - Se pudo identificar que el circuito empleado es un circuito mixto, debido a que consta con elementos colocados en serie y otros colocado en paralelo.
 
-#  BIBLIOGRAFÍA
+# BIBLIOGRAFÍA
 
 (s/n), Sensor de Luz – Información y Características, sensores.top, https://sensores.top/sensor-de-luz-informacion-y-caracteristicas/
 
